@@ -1,0 +1,15 @@
+---
+layout: post
+title:  "Apps Híbridos com Ionic Fremework"
+date:   2017-11-17
+---
+
+<p class="intro"><span class="dropcap">I</span>onic framework.</p>
+
+Podemos entender o Ionic como sendo um framework para desenvolvimento de software voltado a dispositivos móveis baseado em tecnologias Web.
+
+Com este framework as equipes que já desenvolvem soluções Web possam extrapolar suas soluções para os dispositivos mobile de forma limpa e transparente. 
+
+Pode-se desenvolver para as principais plataformas mobile do mercado sem ter que reimplementar várias vezes o mesmo software, o que acontece no desenvolvimento nativo.
+
+Com apenas Angular, TypeScript e Sass o desenvolvedor consegue alta produtividade no desenvolvimento para dispositivos móveis usando apenas um framework e sem ter que estudar diversas linguagens para poder fazer deploy para cada plataforma, pois com este framework podemos codificar uma vez e gerar distribuições para várias plataformas automaticamente.

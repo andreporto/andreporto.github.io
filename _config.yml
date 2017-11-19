@@ -1,0 +1,28 @@
+title: Porto.Academy
+description: Pílulas de tecnologias emvoltadas ao desenvolviemnto de software.
+
+url: http://andreporto.github.com
+baseurl: ""
+paginate_path: "blog/page:num/"
+permalink: blog/:title/
+
+markdown: kramdown
+highlighter: rouge
+gems: [jekyll-paginate]
+paginate: 5
+
+navigation:
+ - title: Home
+   url: /index.html
+ - title: About
+   url: /about
+ - title: Contact
+   url: /contact
+
+social:
+   github: andreporto
+   twitter: andreporto
+   facebook: saladatech
+   email: enderecodoandre@gmail.com
+
+google_analytics: "UA-76815924-2"
